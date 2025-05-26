@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Box(Virtual Machine)</b>
-  - [Virtual Box: Prerequisites and Installation](https://github.com/Sophia-Torres/VirutalBox-prereqs)
+  - [Virtual Box: Prerequisites and Installation](https://github.com/Sophia-Torres/VirtualBox-prereqs)
   - [Virtual Box: Post-Installation Configuration](https://github.com/Sophia-Torres/VirtualBox-postinstall)
   - [Virtual Box: Configuring Active Directory within Virtual Box VMs](https://github.com/Sophia-Torres/VirtualBox-ActiveDirectory)
 - <b>Microsoft Azure</b>
