@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Box(Virtual Machine)</b>
-  - [Virtual Box: Prerequisites and Installation](https://github.com/Sophia-Torres/osticket-prereqs)
-  - [Virtual Box: Post-Installation Configuration](https://github.com/Sophia-Torres/post-install-config)
-  - [Virtual Box: Configuring Active Directory within Virtual Box VMs](https://github.com/Sophia-Torres/ticket-lifecycle)
+  - [Virtual Box: Prerequisites and Installation](https://github.com/Sophia-Torres/VirutalBox-prereqs)
+  - [Virtual Box: Post-Installation Configuration](https://github.com/Sophia-Torres/VirtualBox-postinstall)
+  - [Virtual Box: Configuring Active Directory within Virtual Box VMs](https://github.com/Sophia-Torres/VirtualBox-ActiveDirectory)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sophia-Torres/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sophia-Torres/azure-network-protocols)
