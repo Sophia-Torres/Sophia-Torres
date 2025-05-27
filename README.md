@@ -7,6 +7,7 @@
   - [Prerequisites and Installation](https://github.com/Sophia-Torres/VirtualBox-prereqs)
   - [Post-Installation Configuration](https://github.com/Sophia-Torres/VirtualBox-postinstall)
  
-
-
-[linkedin]: https://linkedin.com/in/Josh
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [Prerequisites and Installation](https://github.com/Sophia-Torres/osticket-prereqs)
+  - [Post-Installation Configuration](https://github.com/Sophia-Torres/osticket-postinstall)
+  - [Ticket Lifecycle Examples](https://github.com/Sophia-Torres/osticket-ticket-lifecycle)
