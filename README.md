@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Virtual Box(Virtual Machine)</b>
-  - [Virtual Box: Prerequisites and Installation](https://github.com/Sophia-Torres/VirtualBox-prereqs)
-  - [Virtual Box: Post-Installation Configuration](https://github.com/Sophia-Torres/VirtualBox-postinstall)
-  - [Virtual Box: Configuring Active Directory within Virtual Box VMs](https://github.com/Sophia-Torres/VirtualBox-ActiveDirectory)
+- <b> Oracele Virtual Box(Virtual Machine) and Active Directory Lab</b>
+  - [Quick Overview](https://github.com/Sophia-Torres/VirtualBox-ActiveDirectory)
+  - [Prerequisites and Installation](https://github.com/Sophia-Torres/VirtualBox-prereqs)
+  - [Post-Installation Configuration](https://github.com/Sophia-Torres/VirtualBox-postinstall)
+ 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Sophia-Torres/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Sophia-Torres/azure-network-protocols)
