@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sophia, an <a href="https://linkedin.com/in/lsophia-torres-/">IT Professional</a>☺</h1>
+<h1>Sophia Torres,<a href="https://linkedin.com/in/lsophia-torres-/">IT Professional</a></h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
