@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-<h3>- <a href="https://github.com/Sophia-Torres/OracleVirtualBox-ActiveDirectory-/"> <b>Oracle Virtual Box and Active Directory Lab</b></a></h3>
+<h3>- <a href="https://github.com/Sophia-Torres/OracleVirtualBox-ActiveDirectory-/"> <b>Oracle Virtual Box and Active Directory</b></a></h3>
 
 This lab simulates a basic Windows domain environment using **Oracle VirtualBox** on macOS. It includes the setup of a **Widows Server 2019** Domain Controller and a **Windows 10 client**, and demonstrates essential network services such as Active Directory, DNS, DHCP, and NAT configuration.
 
 
 
-<h3>- <a href="https://github.com/Sophia-Torres/osTicketLab/"> <b>osTicket (Help Desk Ticketing System)</b></a></h3>
+<h3>- <a href="https://github.com/Sophia-Torres/osTicketLab/"> <b>osTicket Help Desk Simulation</b></a></h3>
 
 This lab provides hands-on experience with **osTicket**, an open-source help desk ticketing system. Hosted entirely in **Microsoft Azure**, this lab simulates the daily operations of a help desk analyst and system administrator, offering a comprehensive view of ticket lifecycle management, system setup, SLAs, departments, and user interaction
